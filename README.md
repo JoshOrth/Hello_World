@@ -6,11 +6,11 @@ I'm Josh Orth, a senior majoring in Business Analytics and Marketing Analytics p
 
 ## Project Title
 
-Hello World Sample
+*Hello World Sample*
 
 ## Description
 
-Practice getting familiar with GitHub
+Practice getting familiar with **GitHub**
 
 ## How to Run Program
 
@@ -20,7 +20,7 @@ Hello_World/
 
 ## Files Used
 
-No files used at this time
+1. No files used at this time
 
 ## Additional Documentation
 
