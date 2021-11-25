@@ -29,3 +29,7 @@ No additional documentation at this time
 ## Versioning
 
 No versioning used at this time
+
+Changelog 
+0.1.0 - Pulled from GitHub to local machine. 
+test
