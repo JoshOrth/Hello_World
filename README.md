@@ -2,7 +2,7 @@
 
 Hi guys!
 
-I'm Josh Orth, a senior majoring in Business Analytics planning to graduate in December of 2022. 
+I'm Josh Orth, a senior majoring in Business Analytics and Information Systems planning to graduate in December of 2022. 
 
 ## Project Title
 
